@@ -1,4 +1,4 @@
-# readablefold.vim
+# readablefold
 
 ![Support Vim 8.0 or above](https://img.shields.io/badge/support-Vim%208.0%20or%20above-yellowgreen.svg)
 ![Support Neovim 0.4 or above](https://img.shields.io/badge/support-Neovim%200.4%20or%20above-yellowgreen.svg)
